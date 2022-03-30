@@ -1,0 +1,2 @@
+a="Jeet"
+print(a)
