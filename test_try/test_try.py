@@ -1,4 +1,6 @@
-for i in range(100):
-    print(i,end=" ")
-    if i==50:
+import random
+while True:
+    x=random.randint(1,10)
+    if x==5:
         break
+    print(x,end=" ")
